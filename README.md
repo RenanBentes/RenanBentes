@@ -1,7 +1,7 @@
 ## 👋🏽 Hi, I’m Renan Bentes
 - 👨🏽‍💻 I’m interested in practice
 - ☕ I’m currently learning Python. 
-- 📱  I have a great interest in Android development.
+-  📱  I have a great interest in Android development.
 - 📫 How to reach me renan.bentes10@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
