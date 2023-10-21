@@ -1,7 +1,7 @@
 ## 👋🏽 Hi, I’m Renan Bentes
 - 👨🏽‍💻 I’m interested in practice.
-- ☕ I’m currently learning Python. 
--  📱  I have a great interest in Android development.
+- ☕ I’m currently learning Javascript and C#. 
+-  📱  I have a great interest in Network Security.
 - 📫 How to reach me   <a  href="https://www.linkedin.com/in/renan-bentes731/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <h3 align="left">Languages and Tools:</h3>
