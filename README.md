@@ -50,9 +50,3 @@
 
 <a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank" rel="noreferrer"> 
 <img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
-
-
-<!---
-RenanBentes/RenanBentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
