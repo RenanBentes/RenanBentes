@@ -36,10 +36,10 @@
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
 <img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"></a>
 
-<a href="https://www.jetbrains.com/ides/" target="_blank" rel="noreferrer"> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50"></a>
 
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
 <img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="50" height="50"></a>
 
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
