@@ -48,8 +48,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" height="50"/></a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img title="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
+<a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank" rel="noreferrer"> 
+<img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
 
 
 <!---
