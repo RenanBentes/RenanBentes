@@ -5,7 +5,7 @@
 - 📫 How to reach me <a  href="https://www.linkedin.com/in/renan-bentes731/" >
             <img title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a> 
                      
-<h3 align="left">Programming Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
 <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></a>
           
-</p>
+<h3 align="left">Tools:</h3>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55"/></a>
 
@@ -42,11 +42,11 @@
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> 
 <img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="50" height="50"></a>
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img title="Illustrator" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" width="50" height="50"/></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+<img title="Excel" src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" width="50" height="50"/></a>
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img title="Photoshop" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" width="50" height="50"/></a>
+<a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
+<img title="Power BI" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="50" height="50"/></a>
 
 <a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank" rel="noreferrer"> 
 <img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
