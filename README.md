@@ -51,6 +51,6 @@
 <a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank" rel="noreferrer"> 
 <img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
 
-<p align="rift"> 
+<p align="right"> 
 <img title="Hackers do Bem" src="https://ava.hackersdobem.org.br/pluginfile.php/96/badges/badgeimage/5/f3" width="60" height="60"/></a>
 
