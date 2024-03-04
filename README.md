@@ -52,5 +52,6 @@
 <img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
 
 <p align="right"> 
-<img title="Hackers do Bem" src="https://ava.hackersdobem.org.br/pluginfile.php/96/badges/badgeimage/5/f3" width="60" height="60"/></a>
+ <a href="https://hackersdobem.org.br/" target="_blank" rel="noreferrer">            
+<img title="Hackers do Bem" src="https://ava.hackersdobem.org.br/pluginfile.php/96/badges/badgeimage/5/f3" width="100" height="100"/></a>
 
