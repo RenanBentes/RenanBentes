@@ -2,7 +2,7 @@
 - 👨🏽‍💻 I'm interested in Native Android Development.
 - ☕ I'm currently learning  Web Development, especially in Javascript.
 - 📱 Exploring opportunities in the field of Information Security.
-- 📫 How to reach me <a  href="https://www.linkedin.com/in/renan-bentes731/" >
+- 📫 How to reach me <a  href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
             <img title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a> 
                      
 <h3 align="left">Programming Languages:</h3>
