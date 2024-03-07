@@ -14,9 +14,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img title="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"/></a>
 
-<a href="https://www.oracle.com/database/sqldeveloper/technologies/download/" target="_blank" rel="noreferrer">  
-<img title="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"  alt="SQL" width="55" height="55"></a>
-
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 <img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" height="50"/></a>
 
@@ -47,9 +44,6 @@
 
 <a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
 <img title="Power BI" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="50" height="50"/></a>
-
-<a href="https://azure.microsoft.com/en-us/products/data-studio" target="_blank" rel="noreferrer"> 
-<img title="Azure Data Studio" src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/></a>
 
 <p align="right"> 
  <a href="https://hackersdobem.org.br/" target="_blank" rel="noreferrer">            
