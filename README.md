@@ -47,7 +47,7 @@
 
 <p align="right"> 
  <a href="https://skillsforall.com/pt/" target="_blank" rel="noreferrer">            
-<img title="Cisco" src=" https://skillsforall.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/462f32fd-fea7-4877-84bd-13ffd31c8db5.png" width="150" height="150"/></a>
+<img title="Cisco" src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" width="150" height="150"/></a>
  <a href="https://hackersdobem.org.br/" target="_blank" rel="noreferrer">            
 <img title="Hackers do Bem" src="https://ava.hackersdobem.org.br/pluginfile.php/125/badges/badgeimage/6/f3" width="150" height="150"/></a>
 
