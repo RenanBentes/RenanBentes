@@ -1,7 +1,7 @@
 ## 👋🏽 Hi, I'm Renan Bentes
-- 👨🏽‍💻 I'm interested in Native Android Development.
-- ☕ I'm currently learning  Web Development.
-- 📱 Exploring opportunities in the field of Information Security.
+- ☕ I'm interested in Native Android Development.
+- 👨🏽‍💻 I'm currently learning  Web Development.
+- 📱  Exploring opportunities in the field of Information Security.
 - 📫 How to reach me: <a  href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
             <img title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a> 
                      
