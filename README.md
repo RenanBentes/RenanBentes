@@ -27,11 +27,12 @@
 <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/></a>
           
 <h3 align="left">Tools:</h3>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
 
-<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
-<img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
+
+<a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
+<img title="Power BI" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="60" height="60"/></a>
 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60"></a>
@@ -39,11 +40,11 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
 <img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60" height="60"></a>
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
 
-<a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
-<img title="Power BI" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="60" height="60"/></a>
+<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
+<img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
 
 <p align="right"> 
  <a href="https://skillsforall.com/pt/" target="_blank" rel="noreferrer">            
