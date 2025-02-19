@@ -12,13 +12,13 @@
 <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img title="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="60" height="60"/></a>
+<img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" height="60"/></a>
 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 <img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60" height="60"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
-<img title="JavaScript" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="60" height="60"/></a>
+<img title="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60"/></a>
 
 <a href="https://dev.w3.org/html5/spec-LC/" target="_blank" rel="noreferrer"> 
 <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/></a>
