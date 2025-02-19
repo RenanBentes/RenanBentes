@@ -40,10 +40,10 @@
 <img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60" height="60"></a>
 
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-<img title="Excel" src="https://images.seeklogo.com/logo-png/37/1/microsoft-excel-logo-png_seeklogo-370278.png" width="60" height="60"/></a>
+<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
 
 <a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
-<img title="Power BI" src="https://images.seeklogo.com/logo-png/43/1/power-bi-icon-logo-png_seeklogo-439962.png" width="60" height="60"/></a>
+<img title="Power BI" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="60" height="60"/></a>
 
 <p align="right"> 
  <a href="https://skillsforall.com/pt/" target="_blank" rel="noreferrer">            
