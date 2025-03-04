@@ -13,8 +13,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" height="60"/></a>
 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60" height="60"/></a>
+<a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> 
+<img title="SQL" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width="60" height="60"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
 <img title="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60"/></a>
