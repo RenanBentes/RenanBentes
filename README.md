@@ -46,8 +46,6 @@
 <img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
 
 <p align="right"> 
- <a href="https://skillsforall.com/pt/" target="_blank" rel="noreferrer">            
-<img title="Cisco" src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" width="120" height="120"/></a>
- <a href="https://hackersdobem.org.br/" target="_blank" rel="noreferrer">            
-<img title="Hackers do Bem" src="https://ava.hackersdobem.org.br/pluginfile.php/125/badges/badgeimage/6/f3" width="120" height="120"/></a>
+ <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
+<img title="Certificado Microsoft: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/></a>
 
