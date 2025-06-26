@@ -52,7 +52,7 @@
 </a>
 <br>
 <b>PL-300: Microsoft Power BI Data Analyst Associate</b>  
-<span>Certification that validates skills in data preparation, modeling, visualization, and analysis using Power BI to support business decision-making.</span>
+<span>Certification that validates skills in data preparation, modeling, visualization, and analysis using Power BI.</span>
 </p>
 
 ### Languages Used in My Repositories
