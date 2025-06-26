@@ -51,3 +51,6 @@
 <p align="left"> 
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
 <img title="Certificado Microsoft: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/></a>
+
+### Languages Used in My Repositories
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
