@@ -2,7 +2,6 @@
 
 - 👨🏽‍💻 Data Analyst | Business Intelligence 
 - 🔭 Currently working with data analysis and business intelligence  
-- 🌱 Constantly learning about machine learning and data visualization
 
 - 📫 How to reach me: <a  href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
             <img title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a> 
