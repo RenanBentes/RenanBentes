@@ -1,6 +1,11 @@
 ## 👋🏽 Hi, I'm Renan Bentes
 
-- 👨🏽‍💻 I'm currently working with data analysis.
+👨🏽‍💻 Data Analyst | Business Intelligence Specialist
+
+🔭 Transforming raw data into meaningful insights
+
+🌱 Currently learning advanced analytics techniques
+
 - 📫 How to reach me: <a  href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
             <img title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a> 
                      
@@ -27,11 +32,11 @@
           
 <h3 align="left">Tools:</h3>
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
-
 <a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
 <img title="Power BI" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="60" height="60"/></a>
+
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60"></a>
@@ -44,8 +49,7 @@
 
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
 <img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
-
-<p align="right"> 
+<h3 align="left">Certifications:</h3>
+<p align="left"> 
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
 <img title="Certificado Microsoft: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/></a>
-
