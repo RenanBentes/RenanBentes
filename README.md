@@ -10,14 +10,14 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 
+<a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> 
+<img title="SQL" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" width="60" height="60"/></a>
+
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
 <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" height="60"/></a>
-
-<a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> 
-<img title="SQL" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" width="60" height="60"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
 <img title="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60"/></a>
@@ -33,20 +33,20 @@
 <a href="https://powerbi.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> 
 <img title="Power BI" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerBI_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="60" height="60"/></a>
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-<img title="Excel" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png" width="60" height="60"/></a>
-
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60"></a>
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
 <img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60" height="60"></a>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img title="Docker" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="70" height="70"/></a>
 
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
 <img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
+
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
