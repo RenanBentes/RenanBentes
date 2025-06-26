@@ -1,6 +1,6 @@
 ## 👋🏽 Hi, I'm Renan Bentes
 
-👨🏽‍💻 Data Analyst | Business Intelligence Specialist
+👨🏽‍💻 Data Analyst | Business Intelligence 
 
 🔭 Transforming raw data into meaningful insights
 
