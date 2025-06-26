@@ -1,0 +1,9 @@
+name: Language Metrics
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: github/linguist@master
+      - run: echo "LANGUAGE_STATS=$(linguist --json)" >> $GITHUB_ENV
