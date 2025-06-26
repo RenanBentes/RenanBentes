@@ -47,9 +47,13 @@
 <img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
 
 <h3 align="left">Certifications:</h3>
-<p align="left"> 
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
-<img title="Certificado Microsoft: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/></a>
+<img title="Microsoft Certification: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/>
+</a>
+<br>
+<b>PL-300: Microsoft Power BI Data Analyst Associate</b>  
+<span>Certification that validates skills in data preparation, modeling, visualization, and analysis using Power BI to support business decision-making.</span>
+</p>
 
 ### Languages Used in My Repositories
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
