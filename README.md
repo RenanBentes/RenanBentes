@@ -48,7 +48,7 @@
 
 <h3 align="left">Certifications:</h3>
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
-<img title="Microsoft Certification: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="130" height="130"/>
+<img title="Microsoft Certification: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="110" height="110"/>
 </a>
 <br>
 <b>PL-300: Microsoft Power BI Data Analyst Associate</b>  
