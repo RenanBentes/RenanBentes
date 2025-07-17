@@ -13,13 +13,13 @@
 <img title="SQL" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" width="60" height="60"/></a>
 
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
-<img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65"/></a>
+<img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" height="60"/></a>
+<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
-<img title="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60"/></a>
+<img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
 
 <a href="https://dev.w3.org/html5/spec-LC/" target="_blank" rel="noreferrer"> 
 <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/></a>
@@ -36,15 +36,16 @@
 <img title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60"></a>
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-<img title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60" height="60"></a>
+<img title="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60"></a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img title="Docker" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="70" height="70"/></a>
+<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="70" height="70"/></a>
 
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
-<img title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"></a>
+<img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"></a>
+
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65"/></a>
+<img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60"/></a>
 
 <h3 align="left">Certifications:</h3>
  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">            
