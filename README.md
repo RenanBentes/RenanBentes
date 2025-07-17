@@ -90,7 +90,4 @@
 ### Languages Used in My Repositories
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
 
-### GitHub Stats
-![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanBentes&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
 ---
