@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Intelligence Specialist**
 
-🔭 Currently working with data analysis and business intelligence to drive data-driven decisions and create impactful visualizations.
+🔭 Designing data analysis solutions and BI strategies to transform raw data into actionable insights and strategic visualizations.
 
 📫 **Connect with me:**
 <a href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
