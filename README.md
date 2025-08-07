@@ -1,8 +1,8 @@
 # 👋🏽 Hi, I'm Renan Bentes
 
-**Data Analyst | Business Intelligence Specialist**
+**Data Analyst | Business Intelligence**
 
-🔭 Designing data analysis solutions and BI strategies to transform raw data into actionable insights and strategic visualizations.
+🔭 Currently working with data analysis and business intelligence to transform raw data into actionable insights and strategic visualizations.
 
 📫 **Connect with me:**
 <a href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
