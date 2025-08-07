@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Intelligence**
 
-🔭 Currently working with data analysis and business intelligence to transform raw data into actionable insights and strategic visualizations.
+🔭 Transforming raw data into actionable insights and strategic visualizations through data analysis and business intelligence solutions.
 
 📫 **Connect with me:**
 <a href="https://www.linkedin.com/in/renan-bentes731/" target="_blank" rel="noreferrer">
