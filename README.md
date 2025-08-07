@@ -88,6 +88,6 @@
 ## 📊 GitHub Statistics
 
 ### Languages Used in My Repositories
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
 
 ---
