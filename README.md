@@ -15,7 +15,6 @@
 
 ### Programming Languages
 <p align="left">
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   </a>
@@ -25,7 +24,7 @@
   </a>
   
   <a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer">
-  <img title="SQL" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" width="60" height="60" alt="SQL"/>
+    <img title="SQL" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" width="60" height="60" alt="SQL"/>
   </a>
   
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
@@ -60,13 +59,11 @@
   </a>
 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" alt="Android Studio"/>
+    <img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" alt="Android Studio"/>
+  </a>
     
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="70" alt="Docker"/>
-  </a>
-  
-
+    <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
   </a>
 </p>
 
@@ -74,21 +71,11 @@
 
 ## 🏆 Certifications
 
-<div align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">
-    <img title="Microsoft Certification: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="110" height="110" alt="Microsoft PL-300 Certification"/>
-  </a>
-**PL-300: Microsoft Power BI Data Analyst Associate**  
-*Certification that validates skills in data preparation, modeling, visualization, and analysis using Power BI.*
-</div>
+| **Microsoft Power BI Data Analyst Associate (PL-300)** | **Microsoft Power Platform Developer Associate (PL-400)** |
+|:-------------------------------------------------------:|:----------------------------------------------------------:|
+| <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer"><img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="120" height="120" alt="Microsoft PL-300 Certification"/></a> | <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/CB2A237D718C208B?sharingId" target="_blank" rel="noreferrer"><img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1744121751/power-platform-developer-600x600694638415766104464.png" width="120" height="120" alt="Microsoft PL-400 Certification"/></a> |
+| Validates skills in data preparation, modeling, visualization, and analysis using Power BI. Demonstrates expertise in creating compelling data stories and actionable business insights. | Validates technical skills in designing, developing, testing, and deploying Power Platform solutions. Demonstrates expertise in extending platform capabilities and integrations. |
 
-
-<div >
-            <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/CB2A237D718C208B?sharingId"
-               target="_blank" rel="noreferrer" title="Microsoft Certification: PL-400">
-                <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1744121751/power-platform-developer-600x600694638415766104464.png" width="110" height="110"alt="Microsoft PL-400 Certification" />
-            </a>
-</div>
 ---
 
 ## 📊 GitHub Statistics
@@ -97,3 +84,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBentes&layout=compact&theme=dracula&hide_border=true)
 
 ---
+
+*💡 Always learning, always growing, always transforming data into value.*
