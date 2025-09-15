@@ -85,4 +85,3 @@
 
 ---
 
-*💡 Always learning, always growing, always transforming data into value.*
