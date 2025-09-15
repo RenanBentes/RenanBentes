@@ -78,11 +78,17 @@
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/770D811EDB5C9FE0?sharingId" target="_blank" rel="noreferrer">
     <img title="Microsoft Certification: PL-300" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1187084601/image8785156127069470121.png" width="110" height="110" alt="Microsoft PL-300 Certification"/>
   </a>
-</div>
-
 **PL-300: Microsoft Power BI Data Analyst Associate**  
 *Certification that validates skills in data preparation, modeling, visualization, and analysis using Power BI.*
+</div>
 
+
+<div >
+            <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RenanBentesdeOliveira-8235/CB2A237D718C208B?sharingId"
+               target="_blank" rel="noreferrer" title="Microsoft Certification: PL-400">
+                <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1744121751/power-platform-developer-600x600694638415766104464.png" width="110" height="110"alt="Microsoft PL-400 Certification" />
+            </a>
+</div>
 ---
 
 ## 📊 GitHub Statistics
